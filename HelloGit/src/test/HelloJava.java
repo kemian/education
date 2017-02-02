@@ -9,7 +9,7 @@ public class HelloJava {
 
 		// branch 추가한 내용
 		System.out.println("Second Commit work");
-		
+                System.out.println("GeitHub updage");	
 	}
 
 }
