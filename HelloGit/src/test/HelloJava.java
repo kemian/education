@@ -10,6 +10,9 @@ public class HelloJava {
 		// branch 추가한 내용
 		System.out.println("Second Commit work");
 		
+		// 지역 저장소 내용 추가
+		System.out.println("Third Commit work");
+		
 	}
 
 }
